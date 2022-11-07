@@ -1,0 +1,6 @@
+cd documents
+mkdir Spr_git_Emil_Makowski
+touch info.txt
+git status
+git add .
+git commit -m"Rozpoczęcie projektu"
