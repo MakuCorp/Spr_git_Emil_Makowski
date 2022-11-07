@@ -1,1 +1,5 @@
+HEAD
 Wersja głowna
+=======
+Wersja pierwsza
+wersjaB
